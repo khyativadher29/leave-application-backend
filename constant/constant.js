@@ -1,0 +1,11 @@
+const CASUAL_LEAVE=12
+
+const SICK_LEAVE=6
+
+const EMERGENCY_LEAVE=4
+
+module.exports={
+    CASUAL_LEAVE,
+    SICK_LEAVE,
+    EMERGENCY_LEAVE
+}
